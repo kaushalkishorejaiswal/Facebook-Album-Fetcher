@@ -1,3 +1,7 @@
+Created by Kaushal Kishore <br>
+Email : kaushal.rahuljaiswal@gmail.com<br>
+Website : http://www.kaushalkishore.com<br>
+
 <h2>About the Facebook Album Fetcher Module</h2>
 This is a Drupal7 module which allows you to fetch your facebook albums and photo galleries from your Facebook Account.To get started, you must first connect with your Facebook account. Once connected, you can create a gallery by making a new Drupal Post or Page and pasting in one line of special HTML, like this:
 <pre>
