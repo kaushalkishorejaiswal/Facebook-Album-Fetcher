@@ -9,20 +9,20 @@ This is the drupal full project. You can also download it from drupal site.
 <a href="https://www.drupal.org/project/facebook_album_fetcher" target="_blank">Facebook Album Fetcher</a>
 
 <h2>Installation Steps:</h2>
-<ol>
+<ul>
 <li> <strong>Step 1 :</strong> Download and unpack the facebook_album_fetcher module in "sites/all/modules".</li>
 <li> <strong>Step 2 :</strong> Go to "Administer" -> "Modules" and enable the module.</li>
 <li> <strong>Step 3 :</strong> Connect your facebook account to with Facebook Album Fetcher.</li>
 <li> <strong>Step 4 :</strong> After getting the proper Access Token Save it.</li>
 <li> <strong>Step 5 :</strong> Now check other tabs that it is working proper.</li>
 <li> <strong>Step 6 :</strong> Enable the "Facebook Album Fetcher" Filter:</li>
-<ol>
+<ul>
 <li> <strong>Step 6.1 :</strong> Open the "Text Formats" from "admin/config"</li>
 <li> <strong>Step 6.2 :</strong> Click on the "Configure" Operation of Full HTML</li>
 <li> <strong>Step 6.3 :</strong> Select the "Facebook Album Fetcher" option of Enabled filters Section.</li>
 <li> <strong>Step 6.4 :</strong> Position "Facebook Album Fetcher" on the Top by setting the order inside the "Filter processing order".</li>
 <li> <strong>Step 6.5 :</strong> Now Save the Configurtaion.</li>
-</ol>
+</ul>
 <li> <strong>Step 7 :</strong> To fetch the album from your account. Click on the "Facebook Album List" Tab</li>
 <li> <strong>Step 8 :</strong> Now Copy the "FACEBOOK ALBUM FETCHER CODE" in your post or page.</li>
 <li> <strong>Step 9 :</strong> Before saving, Select the Text Format Full HTML.</li>
