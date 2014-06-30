@@ -31,11 +31,11 @@ This is the drupal full project. You can also download it from drupal site.
 
 <h2>Facebook Album Fetcher Administration</h2>
 <ul>
-<li>Facebook Login : Provide you an interface to connect your facebook account and register with Facebook Album Fetcher App.</li>
-<li>Facebook Album List : It will import all of your facebook album.</li>
-<li>Personal Details : Your facebook personal details will be shown here.</li>
-<li>Facebook Friends : It imports all of your facebook friends list and you can access there public albums and can integrate with your drupal content.</li>
-<li>Setting : This form provides you the various setting of the facebook album fetcher.</li>
+<li><strong>Facebook Login :</strong> Provide you an interface to connect your facebook account and register with Facebook Album Fetcher App.</li>
+<li><strong>Facebook Album List :</strong> It will import all of your facebook album.</li>
+<li><strong>Personal Details :</strong> Your facebook personal details will be shown here.</li>
+<li><strong>Facebook Friends :</strong> It imports all of your facebook friends list and you can access there public albums and can integrate with your drupal content.</li>
+<li><strong>Setting :</strong> This form provides you the various setting of the facebook album fetcher.</li>
 </ul>
 
 <h2>Lightbox Image Popup Integration:</h2>
